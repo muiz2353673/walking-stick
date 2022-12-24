@@ -8,10 +8,7 @@
 6.Battery pack or power bank (to power Arduino)
 7.Few jumper wires
 8.Tape
-                                                Step 2: Mounting the Components
-                                                
-                                                
-                                                Step 3: Connections
+                                                Step 2: Connections
 Ultrasonic Sensor:
 Vcc to 5v
 Gnd to Gnd
@@ -21,4 +18,4 @@ Buzzer:
 Vccto3v or 5v
 Gnd to Gnd
 I/O toPin 7
-                                              Step 4: Code in Arduino IDE   
+                                              Step 3: Code in Arduino IDE   
